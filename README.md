@@ -1,8 +1,11 @@
-# dm-sorting
+dm-sorting
+----------
 
 DataMapper plugin providing your models a default sorting method.
 
-# Example
+Example
+-------
+
   ```ruby
     require 'dm-core'
     require 'dm-sorting'
