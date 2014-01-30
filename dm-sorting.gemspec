@@ -15,7 +15,7 @@ Gem::Specification.new { |s|
   s.files         = Dir.glob('lib/**/*.rb')
   s.test_files    = Dir.glob('test/**/*_spec.rb')
 
-  s.add_dependency 'dm-core'
+  s.add_dependency 'data_mapper'
 
   s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec'
